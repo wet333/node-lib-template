@@ -1,0 +1,29 @@
+# IDEs
+.idea
+
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage directory created by Jest
+coverage/
+
+# OS and editor files
+.DS_Store
+*.swp
+
+# ESLint cache
+.eslintcache
+
+# Build artifacts (if any)
+dist/
+
+# Environment files
+.env
+
+# User related
+playground
